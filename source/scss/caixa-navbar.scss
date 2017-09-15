@@ -1,0 +1,15 @@
+%component{
+  width: 500px;
+  height: 80px;
+  background-color: #fff;
+  border: 1px solid #49213e; 
+}
+
+.component-navbar {
+  
+  @extend %component;
+  position: absolute;  
+  left: 50%; 
+  margin-left: -250px; 
+  margin-top: 15px;
+ }

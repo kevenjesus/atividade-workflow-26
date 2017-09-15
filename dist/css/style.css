@@ -1,0 +1,54 @@
+.fonte-brand {
+  font-size: 20px;
+  font-family: Verdana;
+  color: #49213e;
+  font-size: 30px;
+  margin-top: 25px;
+  margin-left: 15px;
+  font-weight: bold; }
+
+.fonte-home {
+  font-size: 20px;
+  font-family: Verdana;
+  color: #49213e;
+  margin-top: -60px;
+  margin-left: 250px; }
+
+.fonte-about {
+  font-size: 20px;
+  font-family: Verdana;
+  color: #49213e;
+  margin-top: -44px;
+  margin-left: 327px; }
+
+.fonte-contact {
+  font-size: 20px;
+  font-family: Verdana;
+  color: #49213e;
+  margin-top: -44px;
+  margin-left: 400px; }
+
+a:link {
+  text-decoration: none;
+  color: #49213e; }
+
+a:visited {
+  text-decoration: none;
+  color: #49213e; }
+
+a:hover {
+  text-decoration: none;
+  color: #ffffff;
+  background-color: #000000; }
+
+.component-navbar {
+  width: 500px;
+  height: 80px;
+  background-color: #fff;
+  border: 1px solid #49213e; }
+
+.component-navbar {
+  position: absolute;
+  left: 50%;
+  margin-left: -250px;
+  margin-top: 15px; }
